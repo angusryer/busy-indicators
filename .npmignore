@@ -3,3 +3,8 @@ src
 .babelrc
 *.log
 .DS_Store
+src/
+**/*.test.ts
+**/*.test.tsx
+tsconfig.json
+package-lock.json
